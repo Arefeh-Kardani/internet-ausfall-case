@@ -10,6 +10,6 @@ dokumentiert und anderen Betroffenen als Hilfestellung dienen soll:
   begründet werden kann
 - Vorlagen für Kündigung und ein Ausfall-Log (im Ordner `/templates`, direkt von den jeweiligen Seiten verlinkt)
 
-**Live-Demo:** `https://<dein-github-name>.github.io/<repo-name>/`
-*(nach Aktivierung von GitHub Pages, siehe unten)*
+**Live-Demo:** `[(https://arefeh-kardani.github.io/internet-ausfall-case/)]`
+
 

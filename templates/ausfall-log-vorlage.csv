@@ -1,0 +1,2 @@
+Datum,Uhrzeit von,Uhrzeit bis,Dauer (ca.),Art der Störung,Beschreibung,Gemeldet an Anbieter (ja/nein),Ticketnummer,Nachweis/Datei
+[TT.MM.JJJJ],[HH:MM],[HH:MM],[z.B. 45 Min],[Kompletter Ausfall / Verlangsamung / Verbindungsabbrüche],[Kurze Beschreibung des Problems],[ja/nein],[Ticketnummer falls vorhanden],[Dateiname/Verweis auf Screenshot oder Dokument]
